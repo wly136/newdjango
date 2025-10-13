@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+*.egg
+
+# Virtual environments
+.env
+.venv/
+venv/
+ENV/
+env/
+
+# Django
+db.sqlite3
+*.log
+media/
+staticfiles/
+
+# Node / Frontend
+node_modules/
+dist/
+
+# IDE / Editor
+.idea/
+.vscode/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Coverage / reports
+.coverage
+coverage.xml
+htmlcov/
